@@ -26,4 +26,7 @@ Our gallery features a curated selection of high-resolution images that capture 
    - **File Size**: 37.3kb
    - **Format**: JPG
 
-4.
+4.**Balloon Over Mountains** 🎈
+   - **Resolution**: 382x225
+   - **File Size**: 11.3kb
+   - **Format**: JPG
