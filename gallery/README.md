@@ -13,6 +13,17 @@ Our gallery features a curated selection of high-resolution images that capture 
 
 1. **Robinson R44** ✈️
    - **Resolution**: 382x225
-   - **File Size**: 2.5 MB
+   - **File Size**: 24.8kb
    - **Format**: JPG
-   
+
+2. **Cessna Citation X** 🛩️
+   - **Resolution**: 382x225
+   - **File Size**: 20.9kb
+   - **Format**: JPG
+
+3. **Airbus H160** 💼
+   - **Resolution**: 382 x 225
+   - **File Size**: 37.3kb
+   - **Format**: JPG
+
+4.
