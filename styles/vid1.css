@@ -1,0 +1,165 @@
+body {
+	background-color: black;
+	margin:0;
+	padding:0;
+}
+
+.container {
+	margin-top: 20px;
+}
+.form-section,
+.chart-section {
+	margin-top: 20px;
+}
+
+.chart-container {
+	position: relative;
+	height: 400px;
+	width: 100%;
+}
+
+.er {
+	padding: 2%;
+}
+
+div.col-md-6.yu {
+	padding: 24px 34px;
+	color: orange;
+}
+
+div.col-md-6.yu li {
+	list-style: none;
+}
+
+div.col-md-6.yu ul {
+	padding: 0;
+	line-height: 3;
+}
+div.col-md-6.form-section {
+	padding-left: 60px;
+}
+.back {
+	background-color: white;
+	padding: 2px;
+}
+
+#combinedChart {
+	height: fit-content;
+}
+
+.eq {
+	padding-left: 8%;
+}
+footer.pt-4.my-md-5.pt-md-5 {
+	margin: 0;
+	padding: 0 0 0;
+}
+footer {
+	padding: 25px;
+}
+
+p {
+	font-size: 14px;
+}
+
+h3 {
+	color: white;
+	font-size: 20px;
+}
+
+@media screen and (max-width: 680px) {
+	h1.display-4 {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	iframe {
+		height: 60vh;
+		width: 100%;
+	}
+
+	html {
+		margin: 0;
+	}
+	body {
+		margin: 0;
+		padding: 0;
+	}
+}
+
+/*
+div.row{
+	background-color: black;
+}
+*/
+
+div.col-md-6.form-section{
+	color:orange;
+}
+div#specs1.container.back,
+div#specs2.container.back,
+div#specs3.container.back,
+div#specs4.container.back,
+div#specs5.container.back,
+div#specs6.container.back,
+div#specs7.container.back,
+div#specs8.container.back,
+div#specs9.container.back {
+	color: white;
+	background-color: black;
+	border:none;
+}
+
+canvas#combinedChart {
+	color: orange;
+	margin-top: 0;
+}
+
+div.all {
+	background-color: black;
+}
+
+div.er{
+
+	color:white;
+}
+
+div.tr {
+	padding: 26px 30px;
+}
+input#hours.form-control,
+input#distance.form-control {
+	width: 60%;
+	background-color: black;
+	color: orange;
+	border-color: orange;
+}
+
+section#last.footer2{
+	padding:25px 25px;
+}
+div.col-md-4.col-sm-6{
+	padding:26px;
+}
+
+div.er a{
+	color:orange;
+}
+
+div.er{
+	color:orange;
+}
+
+button{
+	background-color: orange;
+	color:black;
+}
+h3.mt-3{
+	color:orange;
+}
+
+button.btn.btn-primary{
+	background-color: orange;
+	border: none;
+	font-weight: bold;
+}
