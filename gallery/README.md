@@ -32,3 +32,4 @@ Our gallery features a curated selection of high-resolution images that capture 
    - **Format**: JPG
 
 5. **Gulfstream G650 ** 🛫
+    - **Resolution**: 382 x 225
