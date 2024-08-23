@@ -34,7 +34,7 @@ Our gallery features a curated selection of high-resolution images that capture 
 5. **Gulfstream G650 ** 🛫
     - **Resolution**: 382 x 225
     - **File Size**: 29.9kb
-    -**Format**: JPG
+    - **Format**: JPG
 
 6. **Embraer Phenom 300 ** 🌊
     -**Resolution**: 382 x 225
