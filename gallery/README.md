@@ -38,4 +38,22 @@ Our gallery features a curated selection of high-resolution images that capture 
 
 6. **Embraer Phenom 300 ** 🌊
     - **Resolution**: 382 x 225
-    - **File Size**: 14.4kb    
+    - **File Size**: 14.4kb
+    - **Format**: webp
+
+7. **Bombardier Challenger 650** 🎈
+   - **Resolution**: 382x225
+   - **File Size**: 23.8
+   - **Format**: JPG
+
+8. **Piper M600** 🛫
+   - **Resolution**: 382x225
+   - **File Size**: 25.0kb
+   - **Format**: JPEG
+
+9. **Sikorsky S-76** 🌊
+   - **Resolution**: 382x225
+   - **File Size**: 34.1kb
+   - **Format**: JPG
+
+---
