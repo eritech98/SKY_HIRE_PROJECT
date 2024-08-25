@@ -8,8 +8,7 @@ Welcome to **SkyHire**, your premier destination for private plane and hot air b
 ---
 
 ## **Table of Contents**
-
-1. [About SkyHire](#sky)
+1. [About SkyHire](#about-skyhire)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
@@ -19,8 +18,8 @@ Welcome to **SkyHire**, your premier destination for private plane and hot air b
 8. [Challenges Faced](#challenges-faced)
 9. [Future Improvements](#future-improvements)
 10. [Contributing](#contributing)
-11. [License](#license)
-12. [Contact](#contact)
+11. [Contact](#contact)
+
 
 ---
 
@@ -56,9 +55,6 @@ To provide unmatched aerial experiences by offering top-notch private plane and 
 
 - **Third-Party Integrations:**
   - Acuity Scheduling for booking calls and appointments
-  - Cloudinary for image hosting
-  - Google Maps API for location-based services
-
 ---
 
 ## **Installation** 🖥️
@@ -142,20 +138,6 @@ We welcome contributions to SkyHire! To contribute:
 
 ---
 
-## **License** 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- **[Erick Olando ,Tsakani Mohale, Shema Prince Masonga]**
+- **Website:** [SkyHire Website URL](https://eritech98.github.io/test4/)
 ---
-
-## **Contact** 📧
-
-For any questions or suggestions, please reach out to:
-
-- **[Your Name or Team Name]**
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Website:** [SkyHire Website URL](https://www.skyhire.com)
-
----
-
-By following this README template, you'll provide clear and comprehensive information about the SkyHire project, making it easier for others to understand, use, and contribute to it. Feel free to customize the content as needed to fit your specific project details and requirements.
