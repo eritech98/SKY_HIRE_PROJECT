@@ -2,13 +2,14 @@
 
 Welcome to **SkyHire**, your premier destination for private plane and hot air balloon rentals. This project provides a seamless and luxurious experience for users seeking adventure or business trips in the skies.
 
-![SkyHire](assets\pin.jpg)
+![SkyHire](https://eritech98.github.io/SKY_HIRE_PROJECT/assets/2.jpg)
 
 
 ---
 
 ## **Table of Contents**
-1. [About SkyHire](#about-skyhire)
+
+1. [About SkyHire](#sky)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
@@ -18,8 +19,8 @@ Welcome to **SkyHire**, your premier destination for private plane and hot air b
 8. [Challenges Faced](#challenges-faced)
 9. [Future Improvements](#future-improvements)
 10. [Contributing](#contributing)
-11. [Contact](#contact)
-
+11. [License](#license)
+12. [Contact](#contact)
 
 ---
 
@@ -55,6 +56,9 @@ To provide unmatched aerial experiences by offering top-notch private plane and 
 
 - **Third-Party Integrations:**
   - Acuity Scheduling for booking calls and appointments
+  - Cloudinary for image hosting
+  - Google Maps API for location-based services
+
 ---
 
 ## **Installation** 🖥️
@@ -137,6 +141,8 @@ We welcome contributions to SkyHire! To contribute:
 5. Create a pull request, and we’ll review your changes.
 
 ---
+
+
 
 - **[Erick Olando ,Tsakani Mohale, Shema Prince Masonga]**
 - **Website:** [SkyHire Website URL](https://eritech98.github.io/test4/)
