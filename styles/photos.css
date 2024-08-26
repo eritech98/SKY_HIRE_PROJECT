@@ -146,35 +146,44 @@ body > main > section {
 	padding: 0;
 }
 
-
-#carouselExampleControls > div > div.carousel-item.active > div{
+#carouselExampleControls > div > div.carousel-item.active > div {
 	padding-bottom: 3%;
 }
-
 
 /*mobile*/
 @media screen and (max-width: 680px) {
 	#carouselExampleControls > div {
-		height:680px;
+		height: 680px;
 	}
-	p{
+	p {
 		line-height: 1.8rem;
 	}
+	#carouselExampleControls > a.carousel-control-next > span.carousel-control-next-icon,
+	#carouselExampleControls > a.carousel-control-prev > span.carousel-control-prev-icon {
+		display: none;
+	}
+
+	
 }
 
 /*medium screens*/
-@media only screen and (min-width: 600px) and (max-width: 1024px) {
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* Custom CSS rules for tablets */
 
-	#carouselExampleControls > div{
-		height:370.58px;
+	/*
+	#carouselExampleControls > div {
+		height: 370.58px;
+	}
+	*/
+
+	body > main > div {
+		padding: 10px 0;
 	}
 }
 
 /*smaller screens*/
 @media only screen and (max-width: 325px) {
-	
-	#carouselExampleControls > div{
-		height:1756px;
+	#carouselExampleControls > div {
+		height: 1356px;
 	}
-	
 }
