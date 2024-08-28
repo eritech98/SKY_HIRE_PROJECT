@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+	color:orange;
+}
+span{
+	color:orange;
+}
+h2{
+	color:white;
+}
+
+p.lead{
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.featurette-divider {
+	color: orange;
+	background-color: orange;
+}

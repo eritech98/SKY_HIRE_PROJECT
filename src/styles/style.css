@@ -1,0 +1,263 @@
+.jumbotron {
+	background: none;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #ffffff;
+}
+div.jumbotron.jumbotron-fluid {
+	padding: 20px;
+}
+section.meda {
+	background-color: orange;
+	padding: 2rem;
+}
+
+section.second {
+	padding: 2rem;
+	/*background-color: #E6E6FA;*/
+	background-color: black;
+	/*color:#4F4F4F;*/
+	font-weight: bold;
+	color: white;
+}
+
+p.meaow {
+	padding: 1%;
+	font-size: 14px;
+}
+
+/*
+
+img.pot{
+	height:100%;
+	width: auto;
+	
+}
+*/
+div.cen button {
+	display: block;
+	margin: auto;
+}
+div.cen {
+	padding: 1%;
+}
+
+h2.tg {
+	text-align: center;
+	padding: 2%;
+}
+h6 {
+	padding: 1%;
+}
+div.jj {
+	background-color: #eceeef;
+	font-size: 14px;
+	text-align: left;
+}
+div.things img {
+	display: block;
+	margin: auto;
+}
+
+h5.modal-title {
+	padding-left: 18px;
+}
+div.erick {
+	width: 100%;
+}
+
+div.things {
+	padding: 1rem;
+}
+
+section.footer2 {
+	background-color: black;
+	padding: 2rem;
+	color: white;
+}
+/*
+div.rtu{
+	margin-top: 3%;
+}
+*/
+
+@media screen and (max-width: 680px) {
+	h1.display-4 {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	div.col {
+		padding: 0 0 0 0;
+	}
+
+	section#lastfooter2 {
+		text-align: center;
+	}
+
+	.jumbotron {
+		text-align: center;
+		padding-bottom: 0;
+		color: #ffffff;
+	}
+	div.jumbotron.jumbotron-fluid {
+		padding: 0;
+	}
+	p.meaow {
+		padding-top: 5%;
+		font-size: 14px;
+	}
+	p.rt {
+		padding-top: 0;
+	}
+	div.cen {
+		margin-top: 4%;
+	}
+	p.lead {
+		font-size: 18px;
+	}
+
+	img.img-fluid.pot {
+		display: block;
+		margin: auto;
+	}
+
+	img.img-fluid {
+		display: block;
+		margin: auto;
+	}
+
+	h1.display-3.hi {
+		font-size: 48px;
+	}
+	p.lead.yu {
+		font-size: 18px;
+	}
+
+	button.navbar-toggler.collapsed {
+		border: none;
+	}
+}
+
+.navbar {
+	/*background-color: #007FFF;*/
+	color: #d3d3d3;
+	/*background-color:dodgerblue;*/
+	background-color: black;
+}
+
+section.footer2 {
+	background-color: #007fff;
+}
+
+.second {
+	background-color: #d3d3d3;
+}
+
+p.yu {
+	color: black;
+	font-size: 24px;
+}
+
+div.drop-dow {
+	border: none;
+}
+
+button.orange {
+	background-color: orange;
+	font-weight: bold;
+	display: block;
+	margin: auto;
+}
+.ti {
+	padding: 42.5px 0;
+}
+
+h1.hi {
+	font-weight: bold;
+}
+section.boeing {
+	background-color: orange;
+	padding: 40px;
+}
+
+div.jumbotron.jumbotron-fluid {
+	padding: 0 20px;
+}
+
+#last {
+	background-color: black;
+	color: orange;
+}
+
+ul li.po {
+	float: right;
+}
+.yo {
+	background-color: black;
+	color: orange;
+}
+a.dropdown-item {
+	color: orange;
+}
+.modal-header {
+	background-color: black;
+	color: white;
+	border-radius: 0;
+}
+.modal-body {
+	background-color: white;
+
+.modal-text {
+	color: black;
+	font-size: medium;
+}
+
+.modal-text-link {
+	color: darkturquoise;
+}
+
+.modal-text-link:hover {
+	font-weight: bold;
+}
+
+}
+h6 {
+	color: orange;
+
+}
+.btn {
+	border: none;
+}
+
+button.orange {
+	
+  background-color: #FFA500; /* Orange */
+  color: #FFFFFF; /* White text */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 8px 15px rgba(255, 21, 34, 7); /* Larger, darker shadow */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+  
+button.orange:hover {
+	background-color: orange;
+	color: white;
+	border: none;
+	box-shadow: 0 15px 20px rgba(255, 87, 34, 0.9); /* Even more pronounced shadow on hover */
+  transform: translateY(-3px); /* Slight upward movement on hover */
+}
+
+button.btn.btn-secondary.it{
+	background-color: black;
+}
+button.navbar-toggler{
+	border: none;
+}
+
+a.navbar-toggler {
+	border: none;
+}
